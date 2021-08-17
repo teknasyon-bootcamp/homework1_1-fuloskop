@@ -19,6 +19,7 @@ else{
 }
 
 
+
 /**
  * Bu ödevde age değişkeni içerisinde yer alan yaş değerinin bulunduğu
  * yaş grubu tespit edilip ekrana bu yaş grubunun ismi yazılmalıdır. 
